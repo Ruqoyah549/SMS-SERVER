@@ -3,25 +3,13 @@
     {
       "id": 1,
       "number": "09033940914",
-      "message": "You have 1 new message",
+      "message": "You have 1 new message from Flutter",
       "status": "Pending"
     },
     {
       "id": 2,
       "number": "09033940914",
-      "message": "You have 2 new message",
-      "status": "Pending"
-    },
-    {
-      "id": 3,
-      "number": "09033940914",
-      "message": "You have 3 new message",
-      "status": "Pending"
-    },
-    {
-      "id": 4,
-      "number": "09033940914",
-      "message": "You have 4 new message",
+      "message": "You have 2 new message from Dart",
       "status": "Pending"
     }
   ]
