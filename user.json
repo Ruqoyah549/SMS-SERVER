@@ -1,1 +1,29 @@
-hello
+{
+    "user": [
+        {
+            "name": "Raymond Reddington",
+            "picture": "https://pbs.twimg.com/profile_images/909322827395883008/zXKiGbej_400x400.jpg",
+            "about": "Raymond “Red” Reddington is a main character in the NBC series The Blacklist. Reddington is a criminal mastermind, making it to #4 and later to #1 on the FBI's Ten Most Wanted Fugitives, who suddenly turns himself in after 20+ years of evading the FBI"
+        },
+        {
+            "name": "Lee Min Ho",
+            "picture": "https://www.somagnews.com/wp-content/uploads/2020/04/7-3-e1586452442232.jpg",
+            "about": "Lee Min-ho is a South Korean actor, singer, and model. Lee has significant following worldwide, including Asia and western countries, most notably the U.S, France, Australia, Canada, Spain and Italy. "
+        },
+        {
+            "name": "Wade Fucking Wilson",
+            "picture": "https://marvel-movies.fandom.com/wiki/Ryan_Reynolds?file=Ryan_Reynolds.jpg",
+            "about": "Wade Winston Wilson (born 1940s original timeline, late 1970s in new timeline) is a mercenary. He has superhuman strength, stamina, agility and reflexes. He is an expert marksman, swordsman, and martial artist. Due to experimentation, he was given abilities of other mutants and was called Weapon XI or Deadpool."
+        },
+        {
+            "name": "John Wick",
+            "picture": "https://i.ytimg.com/vi/0ESDnRQIX7A/maxresdefault.jpg",
+            "about": "Keanu Reeves plays John Wick, a retired hitman seeking vengeance for the killing of the dog given to him by his recently-deceased wife"
+        },
+        {
+            "name": "Raymond Reddington",
+            "picture": "https://pbs.twimg.com/profile_images/909322827395883008/zXKiGbej_400x400.jpg",
+            "about": "Raymond “Red” Reddington is a main character in the NBC series The Blacklist. Reddington is a criminal mastermind, making it to #4 and later to #1 on the FBI's Ten Most Wanted Fugitives, who suddenly turns himself in after 20+ years of evading the FBI"
+        }
+    ]
+}
